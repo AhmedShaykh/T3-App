@@ -8,8 +8,8 @@ import { Toaster } from "@/components/ui/sonner";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Next Auth | NextJS",
-  description: "Authentication using next-auth-v5",
+  title: "T3 Authentication App",
+  description: "T3 Authentication App",
   icons: {
     icon: "/icon.png",
   },

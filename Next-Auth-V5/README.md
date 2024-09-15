@@ -1,1 +1,0 @@
-# Full Stack Next.JS Authentication Version 5!
